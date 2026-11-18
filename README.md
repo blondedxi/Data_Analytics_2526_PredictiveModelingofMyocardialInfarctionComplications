@@ -1,0 +1,2 @@
+# Data_Analytics_2526_PredictiveModelingofMyocardialInfarctionComplications
+Predicting myocardial infarctions complications by modeling and perform results benchmarking and comparative analysis among other existing research report
